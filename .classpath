@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/modeshape-basic-example"/>
+	<classpathentry kind="lib" path="lib/jcr-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/avro-1.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-search-engine-4.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/infinispan-core-5.1.2.FINAL.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-regexp-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-logging-3.1.0.CR2.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-marshalling-1.3.6.GA.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-marshalling-river-1.3.6.GA.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/jgroups-3.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-3.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-regex-3.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.8.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.8.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.8.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-3.8.jar"/>
+	<classpathentry kind="lib" path="lib/rhq-pluginAnnotations-3.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/snappy-java-1.0.1-rc3.jar"/>
+	<classpathentry kind="lib" path="lib/tika-core-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/tika-parsers-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/vorbis-java-core-0.1-tests.jar"/>
+	<classpathentry kind="lib" path="lib/vorbis-java-core-0.1.jar"/>
+	<classpathentry kind="lib" path="lib/vorbis-java-tika-0.1.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/xz-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/modeshape-jcr-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/modeshape-jcr-api-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/modeshape-schematic-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/modeshape-web-jcr-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/modeshape-web-jcr-webdav-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/modeshape-webdav-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/modeshape-common-4.2.0.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
